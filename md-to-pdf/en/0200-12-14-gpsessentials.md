@@ -182,6 +182,29 @@ Exporting/Saving Tracks
 
 6. Click this icon to Save: ![Save Button][]
 
+Other Android applications that you may use:
+
+- Orux Maps- Map viewer, track logger. You can use OruxMaps for your outdoor activities (running, trekking,
+mountain bike, paragliding, flying,..) Download here: [play.google.com/store/apps/oruxmaps](https://play.google.com/store/apps/details?id=com.orux.oruxmaps)
+
+- Geopaparazzi- Geopaparazzi is a tool developed to do fast qualitative technical and scientific surveys.
+Its strength is its direct connection to the BeeGIS GIS, that can be used to further process the collected data.
+Download here: [play.google.com/store/apps/geogpaparazzi](https://play.google.com/store/apps/details?id=eu.hydrologis.geopaparazzi)
+
+- OSMTracker- Inspired by OSMTracker for Windows Mobile, allows you to track your journeys, mark waypoints with
+tags, voice record, and photos. GPS traces can then be exported in GPX format for later use with OpenStreetMap
+tools like JOSM, or uploaded directly to OpenStreetMap.
+Download here: [play.google.com/store/apps/osmtracker](https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker)
+
+- Vespucci- Vespucci is the first editor for OpenStreetMap on Android. You can download the map data for a
+specific area and edit the map. After editing, you can send it directly to the OSM server.
+Download here: [play.google.com/store/apps/vespucci](https://play.google.com/store/apps/details?id=de.blau.android)
+
+- Open GPS Tracker- An application that can track your travels of your Android by storing your GPS locations.
+Draws the route real-time on either Google or OSM maps. Uses coloring to render speeds. Share though GPX, KMZ
+formats or summarize with a tweet. Take notes on your track with pictures, video, audio and text.
+Download here: [play.google.com/store/apps/opengpstracker](https://play.google.com/store/apps/details?id=nl.sogeti.android.gpstracker)
+
 [GPSElogo]: /home/dianne/Development/git/learnosm/images/Logo.png
 [MapCache]: /home/dianne/Development/git/learnosm/images/mapcache.png
 [GPSfeature]: /home/dianne/Development/git/learnosm/images/GPSenable.png
