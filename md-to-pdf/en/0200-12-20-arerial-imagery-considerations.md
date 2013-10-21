@@ -28,8 +28,6 @@ aspects that must be considered when tracing from imagery:
     resolution under “1 meter”, which means each pixel of the imagery
     represents a one meter squared. That is pretty good!
 
-    ![](/home/dianne/Development/git/learnosm/images/offset_puzzle.png)
-
 -   **Georeference:** Georeference is a term for how closely the imagery’s pixels match the
     actual locations on the ground. This matching is a relatively complex process,
     and the greater the terrain variation and relief, the harder it is to achieve a good
