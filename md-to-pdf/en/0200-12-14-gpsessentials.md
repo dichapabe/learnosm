@@ -182,7 +182,7 @@ Exporting/Saving Tracks
 
 6. Click this icon to Save: ![Save Button][]
 
-Other Android applications that you may use:
+##Other Android applications that you may use
 
 - Orux Maps- Map viewer, track logger. You can use OruxMaps for your outdoor activities (running, trekking,
 mountain bike, paragliding, flying,..) Download here: [play.google.com/store/apps/oruxmaps](https://play.google.com/store/apps/details?id=com.orux.oruxmaps)

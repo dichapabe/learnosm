@@ -28,7 +28,7 @@ aspects that must be considered when tracing from imagery:
     resolution under “1 meter”, which means each pixel of the imagery
     represents a one meter squared. That is pretty good!
 
-    ![Puzzle][]
+    ![](/home/dianne/Development/git/learnosm/images/offset_puzzle.png)
 
 -   **Georeference:** Georeference is a term for how closely the imagery’s pixels match the
     actual locations on the ground. This matching is a relatively complex process,
@@ -180,7 +180,6 @@ Whether it be through poor resolution or poorly georeferenced imagery,
 there are ways you can deal with inaccurate imagery. They mainly involve
 referencing imagery with GPS traces and tracks.
 
-[Puzzle]: /home/dianne/Development/git/learnosm/images/offset_puzzle.png
 [Existing data]: /home/dianne/Development/git/learnosm/images/offset_existing_data_en.png
 [Download]: /home/dianne/Development/git/learnosm/images/offset_tool_download_en.png
 [Downloaded GPX]: /home/dianne/Development/git/learnosm/images/offset_downloaded_gpx_en.png
